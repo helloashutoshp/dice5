@@ -1,0 +1,23 @@
+body{
+    background-color:#393E46;
+}
+.container{
+    text-align: center;
+}
+.dice{
+    display:inline-block;
+    margin:0% 2%;
+}
+h1{
+    font-size: 150px;
+    color:#4ECCA3;;
+    font-family: 'Lobster', cursive;;
+    margin: 50px;
+   
+     
+} 
+p{
+    font-size: 20px;
+    font-family: cursive;
+    margin-top: 3%;
+}
